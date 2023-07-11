@@ -1,0 +1,1 @@
+window.location.href = "https://invisible-war-battle.the-paperpaper.repl.co/"
